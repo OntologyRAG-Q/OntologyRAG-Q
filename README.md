@@ -1,4 +1,4 @@
-## Hi there 👋
+## OntologyRAG-Q: Resource Development and Benchmarking for Retrieval-Augmented Question Answering in Qur’anic Tafsir 👋
 
 <!--
 **OntologyRAG-Q/OntologyRAG-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
